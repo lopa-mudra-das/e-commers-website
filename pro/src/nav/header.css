@@ -1,0 +1,100 @@
+.frist{
+    margin-top: 10vh;
+}
+
+.fro{
+    height: 380px;
+    width: 350px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 0px gray;
+    /* box-shadow: 4px 12px 18px #888888; */
+    margin-left: 38%;
+}
+.fro h5{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    color:rgb(28, 26, 26);
+    text-transform:uppercase;
+}
+
+input{
+    height: 25px;
+    width: 300px;
+    margin: 8px;
+    margin-left: 15px;
+
+}
+input[type]{
+    padding-left: 15px;
+}
+.btn{
+    height: 30px;
+    width: 320px;
+    background-color: rgb(154, 49, 252);
+    color: #fff;
+    border: none;
+    margin: 8px;
+    margin-left: 15px;
+    border-radius: 2px;
+    font-size: 15px;
+    margin-top: 15px;
+    font-family:'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(114, 6, 216);
+}
+p{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+.btn2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 320px;
+    margin: 8px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: rgba(255, 255, 255, 0.922);
+    box-shadow:0 0 4px 0px gray; 
+    border: 2px;
+    cursor: pointer;
+}
+.btn2 img{
+    height: 20px;
+    width: 30px;
+}
+h1{
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+hr{
+    width: 320px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.last{
+    display: flex;
+    margin-top: 15px;
+    cursor: pointer;
+    color: slateblue;
+}
+.last h2{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.last h4{
+    font-size: 15px;
+    margin-left: 35%;
+    margin-top: 10px;
+}
+.last h4:hover{
+    color: rgb(70, 8, 204);
+}
+.last h2:hover{
+    color: rgb(70, 8, 204);
+}
+

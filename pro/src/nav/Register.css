@@ -1,0 +1,68 @@
+.register {
+    display: flex;
+    justify-content: center;
+    margin-top: 11%;
+    box-sizing: border-box;
+
+}
+
+.container {
+    /* height: 350px; */
+    height: 400px;
+    width: 370px;
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 0px rgb(198, 197, 197);
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 6px;
+}
+
+input {
+    height: 25px;
+    width: 320px;
+    margin: 8px;
+    margin-left: 15px;
+
+}
+
+input[type] {
+    padding-left: 15px;
+}
+
+label {
+    padding-left: 15px;
+}
+p{
+   margin: 0; 
+   color: rgb(213, 32, 32);
+   padding-bottom: 5px;
+   padding-left: 13px;
+}
+.fluidUi {
+    margin-left: 35%;
+    margin-top: 25px;
+    width: 130px;
+    height: 30px;
+    color: #fff;
+    background-color: rgb(67, 67, 244);
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+.fluidUi:hover{
+    background-color: rgb(4, 4, 189);
+}
+h2{
+    text-align: center;
+    /* text-transform: uppercase; */
+    font-size: 20px;
+    color: green;
+}
